@@ -6,11 +6,11 @@
 
 ## What this is
 
-A 12-month fellowship project mixing three kinds of work:
+A 12-month Fellowship project, September 2026 to August 2027, at 32 hours per week. Three tracks running in parallel:
 
-- **Research (about 45%)**: a structured study of how Open Payments can land in the European non-profit and digital-inclusion sector. Interviews with 10 to 15 entities (municipalities, foundations, patient associations, digital rights groups), a public findings paper, and per-case sketches of where Open Payments would unlock value.
-- **Technical work (about 40%)**: two working integrations of Open Payments in production SaaS already running in the Spanish non-profit sector. [Contestia](https://contestia.co) (WhatsApp AI receptionist for health clinics) and AGING-AI (digital inclusion pilot for elders in the Vallès, co-funded by DKV Impacta 2026).
-- **Advocacy (about 15%)**: two conference talks (FOSDEM, Open Source Summit Europe, or an NLnet/NGI event), plus a public practitioner's guide documenting what we learned integrating Open Payments in production impact-focused software.
+- **Research (about 14 hours per week, 45%)**: a structured study of how Open Payments can land in the European non-profit and digital-inclusion sector. Interviews with 10 to 15 entities (municipalities, foundations, patient associations, digital rights groups), a public findings paper in English and Spanish, and per-case sketches of where Open Payments would unlock value.
+- **Technical work (about 13 hours per week, 40%)**: two working integrations of Open Payments in production SaaS already running in the Spanish non-profit sector. [Contestia](https://contestia.co) (WhatsApp AI receptionist for health clinics) and AGING-AI (digital inclusion pilot for elderly users in the Vallès, co-funded by DKV Impacta 2026).
+- **Advocacy (about 5 hours per week, 15%)**: two conference talks (FOSDEM 2027, Open Source Summit Europe 2026, or an NLnet/NGI event), plus a public practitioner's guide documenting what we learned integrating Open Payments in production impact-focused software.
 
 ## Why this
 

@@ -1,6 +1,6 @@
 # Advocacy plan
 
-Advocacy component of the AccessPay fellowship, roughly 15% of the work. Paired with [proposal.md](proposal.md).
+Advocacy and community component of the AccessPay fellowship, roughly 5 hours per week (about 15% of the 32-hour week). Paired with [proposal.md](proposal.md).
 
 The goal is narrow: connect the Interledger ecosystem with the European impact-focused non-profit ecosystem, using the fellowship's research and technical work as the bridge. Two talks, one written guide, some community plumbing.
 
@@ -57,4 +57,4 @@ Not a deliverable, but a constant throughout the fellowship:
 
 ---
 
-*v0.1, April 2026*
+*v0.2, April 2026*

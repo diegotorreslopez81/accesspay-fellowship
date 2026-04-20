@@ -1,6 +1,6 @@
 # Research plan
 
-Research component of the AccessPay fellowship, roughly 45% of the work. Paired with [proposal.md](proposal.md).
+Research component of the AccessPay fellowship, roughly 14 hours per week (about 45% of the 32-hour week). Paired with [proposal.md](proposal.md).
 
 ## Research question
 
@@ -69,4 +69,4 @@ After each wave I pause for 1 to 2 weeks of analysis and member-checking (sharin
 
 ---
 
-*v0.1, April 2026*
+*v0.2, April 2026*

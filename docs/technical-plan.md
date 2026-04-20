@@ -1,6 +1,6 @@
 # Technical plan
 
-Technical component of the AccessPay fellowship, roughly 40% of the work. Paired with [proposal.md](proposal.md).
+Technical component of the AccessPay fellowship, roughly 13 hours per week (about 40% of the 32-hour week). Paired with [proposal.md](proposal.md).
 
 Two production integrations of Open Payments in products I already operate. The point is to show what Open Payments looks like outside a demo: in a SaaS with paying customers, and in a pilot with real vulnerable users.
 
@@ -53,4 +53,4 @@ All disclosed per Badge AI conventions when AI-assisted.
 
 ---
 
-*v0.1, April 2026*
+*v0.2, April 2026*
