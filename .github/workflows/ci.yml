@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lint-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check markdown files are present
+        run: |
+          echo "Markdown files:"
+          find . -name "*.md" -not -path "./node_modules/*" | head
+          echo "ok"
+
+  no-em-dash:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check no em-dash in docs
+        run: |
+          if grep -rn "—" docs/ README.md 2>/dev/null; then
+            echo "Found em-dash. Use regular punctuation instead."
+            exit 1
+          fi
+          echo "ok"
