@@ -10,10 +10,11 @@ Software engineer, entrepreneur, non-profit director. Twenty years building at t
 
 ## Relevant to the Interledger Fellowship
 
-- **Grant for the Web alumni** (via Moncon, 2020-2023). Moncon built an open-source micropayment system over Web Monetization, with W3C Verifiable Credentials and decentralised identity. Led product and a 5-person technical team; received a Grant for the Web award.
-- **Active in the Interledger community today.** Applied to the 2026 SDK Grant Program for `openpay-kit` (Arazzo workflows for Open Payments) on 20 April 2026, after public scope discussion with Program Officer Jeremiah Lee in #cfp-sdk. Repo: [diegotorreslopez81/openpay-kit](https://github.com/diegotorreslopez81/openpay-kit).
-- **President of Basics Tech**, a Spanish non-profit (asociación sin ánimo de lucro, Catalonia, founded 2023) focused on bringing AI and digital tooling to communities left behind by digitalisation.
-- **Two impact-focused production SaaS in operation**: Contestia (WhatsApp AI receptionist for Spanish health clinics, paying customers) and AGING-AI (digital-inclusion pilot for 50 elderly users in the Vallès Occidental, co-funded by DKV Impacta 2026).
+- **Grant for the Web alumnus** (via Moncon, 2020-2023). Moncon built an open-source micropayment system over Web Monetization with W3C Verifiable Credentials and decentralised identity following SSI principles. Led product and a 5-person technical team; code public on GitHub during the grant period.
+- **Active in the Interledger community today.** Joined Community Slack 9 April 2026; DM with Program Officer Jeremiah Lee 15 April 2026; public scope post in #cfp-sdk on 20 April 2026; SDK Grant application submitted same day (submission 352209). Repo: [diegotorreslopez81/openpay-kit](https://github.com/diegotorreslopez81/openpay-kit).
+- **Protocol familiarity (verifiable):** Open Payments spec, Rafiki playground (exercised April 2026), GNAP (RFC 9635), Arazzo specification. Trace grant request and continuation flows end-to-end.
+- **President of Basics Tech**, a Spanish non-profit (asociación sin ánimo de lucro, Catalonia, founded 2023) bringing AI and digital tooling to underrepresented groups and vulnerable populations structurally excluded from the digital transition.
+- **Two impact-focused production SaaS in operation**, both as Fellowship deployment grounds: Contestia (WhatsApp AI receptionist for Spanish health clinics, paying customers since 2025) and AGING-AI (digital-inclusion pilot for 50 elderly users in the Vallès Occidental, co-funded by DKV Impacta 2026, regional municipalities).
 
 ---
 
@@ -99,4 +100,4 @@ Tech consultancy for banking projects. .NET stack, financial data analysis, budg
 
 ---
 
-*CV prepared for the Interledger Foundation 2026 Fellowship application. Version 1.0, April 2026.*
+*CV prepared for the Interledger Foundation 2026 Fellowship application. Version 1.1, April 2026.*

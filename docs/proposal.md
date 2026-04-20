@@ -11,11 +11,13 @@ Focus areas (from the program guide, projects may span more than one):
 - Ecosystem and Community Connection: bridge between the Interledger ecosystem and the European non-profit / digital-inclusion community.
 - Technology Stewardship and Knowledge Sharing: public research paper, practitioner's guide, upstream contributions, and two integrations shared as open-source modules.
 
+Alignment with the Foundation's mission: the 1.4 billion people the Foundation cites as excluded from traditional banking include several million in Europe who rely on civil-society and non-profit intermediaries (small clinics, municipal social services, third-sector umbrella groups) to access public and private services. This Fellowship puts Open Payments directly in front of two of those intermediary categories in Spain and produces research that the Foundation can port to adjacent EU geographies. Relevant UN Sustainable Development Goals: 1 (No Poverty), 10 (Reduced Inequalities), and 3 (Good Health and Well-being).
+
 ---
 
 ## 1. Background and Expertise
 
-I'm Diego Torres Lopez. Twenty years in production software engineering, currently running a portfolio of small SaaS products under Infinite Labs OÜ (Estonia) and presiding over Basics Tech, a Spanish non-profit (asociación sin ánimo de lucro, Catalonia) whose mission is bringing AI and digital tooling to groups left behind by digitalisation.
+I'm Diego Torres Lopez. Twenty years in production software engineering, currently running a portfolio of small SaaS products under Infinite Labs OÜ (Estonia) and presiding over Basics Tech, a Spanish non-profit (asociación sin ánimo de lucro, Catalonia) whose mission is bringing AI and digital tooling to underrepresented groups and vulnerable populations that have been structurally excluded from the digital transition.
 
 **Why I'm positioned to do this Fellowship:**
 
@@ -26,16 +28,24 @@ Since then, two production products I operate today put me in daily contact with
 - **Contestia** (https://contestia.co): a WhatsApp AI receptionist for Spanish health clinics, in production with paying customers. Stack: Python (FastAPI) + Next.js + Postgres + Google Gemini + WhatsApp Business API. Currently using Stripe as the payment layer.
 - **AGING-AI**: a digital-inclusion pilot for 50 elderly users in the Vallès Occidental (Catalonia), co-funded by DKV Impacta 2026 and two Catalan municipalities. Launched pilot July-December 2026. Focus on elderly populations excluded from digital services.
 
-I'm also active in the Interledger community today: I recently applied to the 2026 SDK Grant Program for `openpay-kit` (Arazzo workflows for Open Payments) on 20 April 2026, after an open scope discussion with Program Officer Jeremiah Lee in #cfp-sdk. The `openpay-kit` repo is public at https://github.com/diegotorreslopez81/openpay-kit.
+**Evidence of engagement with the Interledger ecosystem (dated, verifiable):**
 
-**Familiarity with Interledger Protocol and Open Payments:** I have worked through the Open Payments specification (https://openpayments.dev/), Rafiki setup and sandbox, the GNAP RFC (9635), and the Arazzo specification in preparing the SDK grant proposal. I can read and trace a grant request + continuation flow end-to-end in the current spec and I'm comfortable setting up a local Rafiki playground.
+- Moncon team member, 2020 to 2023, Grant for the Web alumnus. Hands-on implementation of Web Monetization, W3C Verifiable Credentials and W3C DID. Code and commits public on GitHub during the grant period.
+- Joined the Interledger Community Slack on 9 April 2026.
+- Private DM exchange with Program Officer Jeremiah Lee, 15 April 2026, clarifying SDK grant scope.
+- Public scope post in #cfp-sdk on 20 April 2026 (first public post as Diego, prior work under the Moncon account).
+- 2026 SDK Grant application submitted to Submittable on 20 April 2026 (submission 352209) for `openpay-kit` (Arazzo workflows for Open Payments). Public repo: https://github.com/diegotorreslopez81/openpay-kit.
+- Local Rafiki playground set up April 2026 for the SDK proposal, exercised against Open Payments sandbox; GNAP grant request and continuation flows traced end-to-end.
 
-**Communities I engage with:**
+**Protocol familiarity:** I have worked through the Open Payments specification (https://openpayments.dev/), Rafiki setup and sandbox, the GNAP RFC (9635), and the Arazzo specification. Comfortable reading and tracing a grant request and continuation flow end-to-end.
 
-- Interledger community (Slack, Community Forum, GitHub).
-- Spanish non-profit / third-sector ecosystem (Basics Tech, ASICRE, municipalities in the Vallès).
-- European digital rights and open-standards community (NLnet/NGI, Eticas).
-- EU healthtech small clinics (via Contestia customer base).
+**Communities I engage with, with onset dates:**
+
+- Interledger community (Slack and Community Forum): 2020 via Moncon, reactivated April 2026.
+- Spanish non-profit and third-sector ecosystem (Basics Tech founded 2023, ASICRE collaboration 2024, two Vallès municipalities since 2025 via AGING-AI).
+- Corporació de Salut del Maresme i la Selva (Spanish regional public healthcare body, through Dr. Alberto Zamora, 2025).
+- European digital rights and open-standards community (NLnet/NGI 2021, Eticas 2022).
+- EU small-clinic healthtech (Contestia paying clinics in Spain since 2025).
 
 **How this Fellowship aligns with my professional trajectory:**
 
@@ -47,7 +57,7 @@ The Fellowship gives me a focused 12-month window to do the bridging work that I
 
 **Title:** AccessPay: Open Payments for the European Non-Profit and Digital-Inclusion Sector.
 
-**One-sentence version:** twelve months of research, technical integration, and advocacy to make Open Payments a viable payment layer for the European non-profit and digital-inclusion sector, using two production SaaS I already operate (Contestia and AGING-AI) as real deployment grounds.
+**One-sentence version:** twelve months of research, technical integration, and advocacy to make Open Payments a viable payment layer for the European non-profit and digital-inclusion sector, centring underrepresented populations (elderly users in the Vallès Occidental, patients of small regional health clinics in Catalonia, third-sector intermediaries across the EU) and using two production SaaS I already operate as real deployment grounds, not as hypotheticals.
 
 **What I will do during the 12 months:**
 
@@ -142,6 +152,21 @@ I ship in this sector today (Contestia, AGING-AI). I'm part of the Interledger e
 
 ## 4. Community Engagement and Interledger Integration
 
+**Pre-existing relationships I bring into the Fellowship (not invented for this application):**
+
+| Partner / community | Relationship since | Role in this Fellowship |
+|---|---|---|
+| Moncon alumni network | 2020 | Foundation of Interledger engagement, reactivated April 2026 |
+| Basics Tech (Spanish non-profit) | Founded 2023, I am the president | Hosts repos, roadmap commitment beyond Fellowship end |
+| DKV Impacta programme | 2025, via AGING-AI co-funding | Enables AGING-AI deployment ground |
+| Two Vallès Occidental municipalities | 2025, via AGING-AI | Enable elderly user access, ethics and consent support |
+| Corporació de Salut del Maresme i la Selva (CSMS) | 2025, via Dr. Alberto Zamora | Clinical research rigor, European healthcare bridge |
+| Contestia paying clinics in Spain | 2025 | Production deployment for integration #1 |
+| ASICRE (Spanish non-profit umbrella) | 2024 | Third-sector network, research recruitment |
+| Interledger community Slack + #cfp-sdk | April 2026 reactivated | Community presence, Program Team dialogue |
+
+These are not cold introductions made for the Fellowship. They are relationships where work is already underway. The Fellowship uses them as starting points for sustained cross-ecosystem work.
+
 **How I'll engage communities with the Interledger ecosystem:**
 
 - **Direct introductions.** The research interviews put me in front of 10 to 15 entities in the European third sector that don't currently know what Open Payments is. After each interview, the entity receives a short, tailored brief on what Open Payments could mean for them, plus a pointer to the Interledger Community Forum and the Foundation's work. Where appropriate, I introduce them directly to Interledger staff or Community members working on adjacent problems.
@@ -188,6 +213,18 @@ I ship in this sector today (Contestia, AGING-AI). I'm part of the Interledger e
 **Ecosystem impact:**
 - 3+ European third-sector entities introduced to the Interledger ecosystem and maintaining an ongoing relationship with the Foundation or Community beyond the Fellowship.
 - 1 follow-on Foundation application scoped by a European entity that would not have applied without the Fellowship's introduction.
+
+### Mapping to the Fellowship assessment rubric
+
+The program guide lists five scoring areas. Each is addressed by the deliverables above:
+
+| Rubric area | How this Fellowship scores on it |
+|---|---|
+| Viability of the proposed Application | Two production systems under my direct control (Contestia, AGING-AI). 32 hours per week over 12 months adds up to 1,560 hours, matched against the deliverables list. Warm pre-existing relationships on day one. |
+| Community and familiarity with the Interledger Protocol | Moncon alumni (2020-2023), current SDK applicant (April 2026), Rafiki playground exercised, GNAP and Arazzo reviewed, active Slack presence. |
+| Potential for Impact | Real underrepresented populations (elderly, small-clinic patients), first European third-sector deployment, public artefacts (paper, guide, code) designed for cross-EU reuse. |
+| Realistic timelines and budget | Month-by-month roadmap with track allocations, 7-category budget aligned to program guide, dependencies surfaced explicitly (including GNAP-in-OpenAPI external dependency from the SDK grant work). |
+| Diversity, equity, and inclusion | See the DEI section below: underrepresented geography, bilingual and trilingual outputs, beneficiary-centred research design, transparent consent, community-first publication order. |
 
 ### Tracking
 
@@ -292,14 +329,37 @@ Full policy in [docs/ai-use.md](ai-use.md). Primary model: Claude Opus 4.7. Badg
 
 ## Diversity, equity, and inclusion
 
-Diego is a Spanish researcher and developer working in Catalonia. The Fellowship explicitly targets European third-sector entities serving underserved populations: elderly users in the Vallès (AGING-AI), patients of small regional clinics (Contestia), digital-rights communities, NGOs handling cross-border transfers to LATAM and Africa. Research outputs are published in English and Spanish to widen the circle of who can engage with them. The geographic focus (European non-profit sector) is currently underrepresented in the Foundation's funded portfolio, which skews toward North America and Africa.
+The Fellowship is built around populations and geographies that are structurally underrepresented in the Foundation's current portfolio and in the Open Payments conversation more broadly. Concrete commitments:
+
+- **Underrepresented geography.** The European non-profit and digital-inclusion sector is currently underserved in the Foundation's funded portfolio, which skews toward North America and Africa. This Fellowship brings a first detailed European third-sector study into the portfolio.
+
+- **Populations centred, not served as subjects.** The two integrations ship inside systems that already serve elderly users in the Vallès Occidental (AGING-AI, 50 users, DKV-funded 2026) and patients of small regional health clinics in Catalonia (Contestia, in production). The research interviews are with third-sector entities that work daily with low-income, elderly, migrant, and linguistically minoritised users.
+
+- **Multilingual outputs.** The findings paper and practitioner's guide are published in English and Spanish. Key summaries also produced in Catalan (my native language alongside Spanish), because the immediate Vallès partner entities operate in Catalan and excluding that language would contradict the Fellowship's own premise.
+
+- **Research design that is not extractive.** Case sketches are shared with interviewees before public release (member-checking). Consent templates published on day one of the Fellowship. No personal data about beneficiaries is collected, only entity-level information. Interviewee organisations receive a short tailored brief on Open Payments after every interview as concrete reciprocity, not just a "thank you for your time" email.
+
+- **Financial compensation where appropriate.** User testing participants in the AGING-AI proof-of-concept receive compensation per the Microgrants and Pilot Projects budget line. Interview participation itself is voluntary, but accessibility accommodations (transcription, video-call alternatives, home visits where requested) are covered by the same line.
+
+- **Accessibility of the artefacts.** Repos and documentation follow WCAG basics. The practitioner's guide is reviewed for plain-language usability. Conference talks provide slides and captioned video where the venue permits.
+
+- **Beyond the geography, on the ecosystem side.** The openpay-impact module is written to be picked up by other EU non-profit teams who typically cannot afford the first-integration tax on a new payment rail. Making that first integration cheaper is itself an equity move.
+
+## Funding preference (in the event of multiple grant awards)
+
+Per the program guide: applicants who have applied to more than one grant round in the same cycle must declare funding preference. I applied to the 2026 SDK Grant Program (openpay-kit, $19,200) on 20 April 2026 and am applying to this Fellowship ($72,000 stipend + $20,000 project budget) on the same cycle.
+
+**My preference: the Fellowship.** Its research, technical, and advocacy mix matches the work I want to do most during the next 12 months and produces the higher-leverage public artefacts for the ecosystem (a findings paper with no European counterpart today, two production integrations, a practitioner's guide). If both grants are offered, I will accept the Fellowship and withdraw the SDK grant application. The openpay-kit SDK scope (Arazzo workflows) remains on the public roadmap of the `openpay-kit` repo and will be delivered as part of this Fellowship's technical track where it touches the integration work, without duplicate funding.
 
 ## References (uploaded separately)
 
 Two letters of reference are uploaded with the application:
-- (Reference 1: to be confirmed)
-- (Reference 2: to be confirmed)
+
+- **Reference 1:** Simon Lee. Professional relationship spanning several years. Letter speaks to technical depth, ecosystem awareness, bridge-building posture, public-first execution, and judgement under pressure.
+- **Reference 2:** Dr. Alberto Zamora Cervantes, MD PhD. Head of the Teaching, Research and Innovation Unit, Corporació de Salut del Maresme i la Selva (CSMS); Head of the Lipids and Cardiovascular Risk Unit. Peer-reviewed research in *European Heart Journal: Digital Health*. Letter speaks to technical rigor in clinical settings, bridge-building across ecosystems, the AGING-AI pilot, and the research dimension of the Fellowship.
+
+Neither reference is a family member or a direct employee.
 
 ---
 
-*Draft v0.2, April 2026*
+*Draft v0.3, April 2026*
